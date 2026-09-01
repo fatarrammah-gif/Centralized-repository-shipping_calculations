@@ -1,5 +1,5 @@
 
-# # Here is another update by fatarrammah-gif
+# Here is a new update by fatarrammah-gif
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
